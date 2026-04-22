@@ -1,8 +1,8 @@
 <h1 align="center">🎮 HỆ THỐNG GAME HÀNH ĐỘNG NHẬN DIỆN CỬ CHỈ TAY</h1>
 
 <p align="center">
-  <img src="images/logoDaiNam.png" width="200"/>
-  <img src="images/LogoAIoTLab.png" width="170"/>
+  <img src="assets/images/logoDaiNam.png" width="200"/>
+  <img src="assets/images/LogoAIoTLab.png" width="170"/>
 </p>
 
 <div align="center">
